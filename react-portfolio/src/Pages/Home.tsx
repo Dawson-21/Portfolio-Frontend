@@ -16,10 +16,10 @@ export default function Home() {
         </div>
         <div className="grid max-w-screen-2xl px-8 py-8 mx-auto xl:px-16 lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 fade-in">
           <div className="mr-auto place-self-center lg:col-span-7">
-            <h1 className="max-w-2xl mb-4 md:-mr-20 -mr-5 font-[Adani] font-extrabold tracking-tight leading-none text-4xl sm:text-5xl lg:text-5xl xl:text-6xl dark:text-light">
+            <h1 className="max-w-2xl mb-4 md:-mr-20 -mr-5 font-myFont font-extrabold tracking-tight leading-none text-4xl sm:text-5xl lg:text-5xl xl:text-6xl dark:text-light">
               Hi, I'm Dawson Adams
             </h1>
-            <p className="max-w-2xl mb-6 font-[Adani] text-[15px] text-justify text-gray-600 lg:mb-8 xl:pr-20 lg:pr-10 text-lg dark:text-gray-400">
+            <p className="max-w-2xl mb-6 font-myFont text-[15px] text-justify text-gray-600 lg:mb-8 xl:pr-20 lg:pr-10 text-lg dark:text-gray-400">
               Professional web developer and aspiring software engineer with
               skills ranging from front-end design and user experience
               optimization to back-end development and database management. I
